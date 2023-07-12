@@ -1,0 +1,28 @@
+Paths: place where a file is placed in a system
+Types: Absolute paths & Relative paths
+
+Image that we are talking about entri.jpg
+
+Relative Paths
+
+-> src="entri.jpg"- in the same folder as this file
+
+-> src="images/entri.jpg" - in the images folder and images folder is in the same folder as this file
+
+-> src="/images/entri.jpg" - in the images folder and images folder is at the root directory
+
+-> src="../entri.jpg" - in the images folder and images folder is one level up from the folder where this file is present
+
+
+where are paths used in html?
+-> images
+-> style sheets file location
+-> js file location
+-> external links
+-> links to another html page of the same project
+
+Absolute paths: If we use the images in the folder that is saved in the local
+
+Which of type of mapping is preferred?
+Relative Paths in real world projects.
+-> Adopt to this Relative paths
