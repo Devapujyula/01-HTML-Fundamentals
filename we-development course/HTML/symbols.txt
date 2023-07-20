@@ -1,0 +1,44 @@
+For all - &forall;
+Partial Differential - &part;
+There exsists - &exsist;
+Element of - &isin;
+Sigma - &sum;
+
+
+name - &name;
+number - &number;
+
+
+alpha - &alpha;
+beta - &beta;
+gama - &gama;
+delta - &delta;
+epsilon - & epsilon;
+zeta - &zeta; 
+
+
+Spades - &spades ;
+Clubs - &clubs; 
+Hearts - &hearts;
+Diamonds - &diamonds;
+
+
+Indian Rupee sign - &#8377;
+Bitcoin - &#8383;
+Euro - &#8352;
+
+
+Left Arrow - &larr; &#8592
+Right Arrow - &rarr; 
+Hollow double pointed arrow - &#8703;
+
+
+Maths first - for all -&#8704;
+Maths last - Notation membership - &#8959;
+
+
+Greek First - Heta -&#880;
+Greel Last - Reversed dotted lunate sigma - &#1023;
+
+
+
