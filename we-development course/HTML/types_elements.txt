@@ -1,0 +1,38 @@
+Types of Elements
+
+1) Block Elements:
+
+-> These Elements always starts on a new line.
+-> Occupies the entire available width.
+-> Have Top and Bottom margins exsists.
+
+Examples:
+-p
+-h1-h6
+-ul
+-line
+-ol
+-blockquote
+-dd
+-dl
+-dt
+-thead
+-tbody
+-tfoot
+-pre
+
+
+
+
+2) Inline Elements:
+
+-> These Elements continue on current line.
+-> These take up as much as width required.
+-> Top and Bottom margins do not exsists
+
+Examples:
+-b 
+-abbr
+-sup
+-Inline
+-q
