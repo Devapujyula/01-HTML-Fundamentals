@@ -1,0 +1,67 @@
+CSS - Cascading Style Sheets
+
+where to write css?
+-> In the HTML file 
+-> outside the HTML file also created
+
+-> In the real world scenario, we use 2nd case for Industrial projects.
+
+
+====================================
+Syntax
+
+selector {
+    property1 : value1;
+    property2 : value2;
+    property3 : value3;
+}
+
+=====================================
+
+There are 3 types of placement in CSS
+1. In the same file/ Internal CSS
+2. In the other file/ External CSS
+3. Within the element/ Inline
+
+=======================================
+
+There are 5 types of selectors
+1. Simple selectors
+2. Combinator selectors
+3. Psedo-class selectors
+4. Pseudo-element selectors
+5. Attribute selectors
+
+
+1. Simple selectors
+----------------------
+
+with id 
+
+#id1 {
+    property : value;
+}
+
+with class
+
+.class1 {
+    property : value;
+}
+
+for all -> Universala selector 
+
+* {
+    property : value;
+}
+
+with element
+
+p {
+    property : value;
+}
+
+selects only p elements with classname = class1
+
+p,class1 {
+    property : value;
+}
