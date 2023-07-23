@@ -8,7 +8,7 @@ where to write css?
 
 
 ====================================
-Syntax
+Syntax-
 
 selector {
     property1 : value1;
@@ -18,14 +18,14 @@ selector {
 
 =====================================
 
-There are 3 types of placement in CSS
+There are 3 types of placement in CSS-
 1. In the same file/ Internal CSS
 2. In the other file/ External CSS
 3. Within the element/ Inline
 
 =======================================
 
-There are 5 types of selectors
+There are 5 types of selectors-
 1. Simple selectors
 2. Combinator selectors
 3. Psedo-class selectors
