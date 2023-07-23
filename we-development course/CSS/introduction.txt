@@ -33,35 +33,3 @@ There are 5 types of selectors
 5. Attribute selectors
 
 
-1. Simple selectors
-----------------------
-
-with id 
-
-#id1 {
-    property : value;
-}
-
-with class
-
-.class1 {
-    property : value;
-}
-
-for all -> Universala selector 
-
-* {
-    property : value;
-}
-
-with element
-
-p {
-    property : value;
-}
-
-selects only p elements with classname = class1
-
-p,class1 {
-    property : value;
-}
