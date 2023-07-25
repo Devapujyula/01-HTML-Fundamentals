@@ -1,0 +1,48 @@
+Combinator selectors
+======================
+
+1.Descendant Selector 
+--------------------
+div h1 {
+    property : value;
+}
+
+Example:
+<div><h1>This is descendent</h1></div>
+
+2.Child Selector
+------------------
+div>p {
+    property : value;
+}
+
+Example:
+<div><p>Child Selector</p></div>
+<div><p><h1>This is not not a child of div. It is Grand child of div so here in this case css won't applicable for h1 as shown above case</h1></p><div>
+
+3.Adjacent sibiling Selector
+---------------------------
+
+p+h1 {
+    property : value;
+}
+
+Example:
+<div>
+<p></p>
+<h1></h1>
+</div>
+
+4.General sibiling Selector
+---------------------------
+
+p-h1 {
+    property : value;
+}
+
+Example:
+<div>
+<p></p>
+<h2></h2>
+<h1></h1>
+</div>
