@@ -1,0 +1,38 @@
+Pseudo-selectors
+=================
+
+Example:
+
+input:checked {
+    property : value;
+}
+
+ If div without having child but adding dynamically using JavaScript
+
+ Example:
+
+-> Applicable only div element do not have children
+
+ div:empty {
+    property : value;
+ }
+
+-> Applicable when link is hovered
+
+a:hover {
+    property : value;
+}
+
+-> Applicable when visited
+
+a:visited {
+    property : value;
+}
+
+p:first-child {
+    property : value;
+}
+
+p:last-child {
+    property : value;
+}
