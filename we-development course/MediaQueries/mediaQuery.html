@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MediaQueries</title>
+    <link rel="icon" href="../HTML/favicon.ico" />
+    <style>
+      .container {
+        background-color: brown;
+        color: white;
+        padding: 30px;
+      }
+
+      @media (max-width: 950px)  {
+        .container {
+          background-color: blue;
+        }
+
+        @media (min-width: 350px) and (max-width:950px)  {
+        .container {
+          background-color: blue;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Hello world....!</h1>
+    </div>
+  </body>
+</html>
