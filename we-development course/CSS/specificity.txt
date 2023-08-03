@@ -1,0 +1,19 @@
+Specificity in CSS
+-------------------------------------
+
+Styling ? => Where will you apply??
+
+-> Inline Styling
+-> Using classes, id Styling
+-> element targeted Styling
+
+
+Order of priority for Styling-
+-----------------------------
+
+1. Inline
+2. Id's
+3. classes
+4. elements
+
+This order of priority is said to Specificity in CSS
