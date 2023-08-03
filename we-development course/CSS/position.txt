@@ -1,0 +1,15 @@
+Position Properties
+--------------------
+
+p {
+    property : value;
+}
+
+-> Position is also a property
+
+Types of Position -
+1. static
+2. relative
+3. fixed
+4. absolute
+5. sticky
