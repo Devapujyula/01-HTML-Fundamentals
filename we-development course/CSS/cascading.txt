@@ -1,0 +1,6 @@
+Cascading in CSS
+-----------------
+
+=> If we define an element multiple times then the elements having property and value with the last one will apply.
+
+=> It doesnot happen in the Specificity level
