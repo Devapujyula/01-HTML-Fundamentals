@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tables</title>
+    <link rel="icon" href="favicon.ico" />
+  </head>
+  <link rel="icon" href="../HTML/favicon.ico" />
+  <style>
+    h2 {
+      background-color: deeppink;
+      text-align: center;
+      border: 1px solid black;
+      font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    }
+    table,
+    th,
+    td {
+      border: 1px solid black;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    td {
+      text-align: center;
+      color: brown;
+      font-family: cursive;
+      /* background-color: cornsilk; */
+    }
+
+    th {
+      padding: 10px;
+      color: darkblue;
+      font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+      background-color: burlywood;
+    }
+
+    .bg_change {
+      background-color: cornsilk;
+    }
+  </style>
+  <body>
+    <h2>Tables in CSS</h2>
+    <table>
+      <tr>
+        <th>SNo</th>
+        <th>Merchant Name</th>
+        <th>Merchant ID</th>
+        <th>Merchant City</th>
+      </tr>
+
+      <tr>
+        <td>1</td>
+        <td>Bobby</td>
+        <td>1234</td>
+        <td>Hyderabad</td>
+      </tr>
+
+      <tr class="bg_change">
+        <td>2</td>
+        <td>Prasad</td>
+        <td>4568</td>
+        <td>Bengaluru</td>
+      </tr>
+
+      <tr>
+        <td>3</td>
+        <td>Raja</td>
+        <td>8674</td>
+        <td>Chennai</td>
+      </tr>
+
+      <tr class="bg_change">
+        <td>4</td>
+        <td>Sai</td>
+        <td>5642</td>
+        <td>Noida</td>
+      </tr>
+
+      <tr>
+        <td>5</td>
+        <td>Satwik</td>
+        <td>4978</td>
+        <td>Kolkata</td>
+      </tr>
+    </table>
+  </body>
+</html>
