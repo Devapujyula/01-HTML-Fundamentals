@@ -1,0 +1,10 @@
+Inhertance in CSS
+-------------------
+
+Parent element -> p
+Child element -> c
+
+
+=> If c has no separate styling then p styling is followed.
+
+=> If c element has separate styling then it does not followe p.
