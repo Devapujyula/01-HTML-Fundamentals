@@ -1,0 +1,41 @@
+Media Queries
+---------------------------
+
+To be Learnt?
+----------------------------
+-> What is Media Queries?
+-> Types of MQ?
+-> Media Features
+-> Media Operators
+----------------------------------------------
+
+It is a CSS Tool to host a responsive website using CSS.
+
+Media types-
+------------
+
+-> Screen
+-> Print
+-> Page for visually impaired people/ Oral
+
+Media Query-
+-----------
+
+-> It is a CSS Features
+-> Used for implementing CSS styles Responsively
+
+Media Features-
+---------------
+
+-> Width
+-> Height
+-> Orientation
+
+Media Operators-
+----------------
+
+-> ,
+-> and
+-> not
+
+
