@@ -1,0 +1,5 @@
+Click Events
+--------------
+
+1. onclick
+2. ondbclick
