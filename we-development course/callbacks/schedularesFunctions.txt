@@ -1,0 +1,33 @@
+Schedulers Functions
+---------------------
+
+1. setTimeout
+2. clearTimeout
+3. setInterval
+4. clearInterval
+
+1. setTimeout
+--------------
+
+take 2 parameters 
+-> callback function
+-> time(in milli seconds)
+
+2. clearTimeout
+---------------
+
+It is nothing but to clear the setTimeout
+
+3.setInterval
+--------------
+
+It takes 2 parameters 
+-> callback
+-> time(in milli seconds)
+
+The exact difference is that for every certain time interval that call back function is again called
+
+4.clearInterval
+----------------
+
+It is nothing but to clear the setInterval
