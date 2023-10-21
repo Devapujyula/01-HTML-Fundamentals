@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: red;
+}
+p {
+    color: blue;
+}
+
+h2 {
+    border: 3px soild green;
+}
